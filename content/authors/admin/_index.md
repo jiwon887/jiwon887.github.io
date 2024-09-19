@@ -48,13 +48,13 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/jiwon_1865/
-  #- icon: instagram
-  #  icon_pack: instagram
-  #  link: https://www.instagram.com/jiwon_1865/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jiwon887 
 # Uncomment below for Github link
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jiwon887
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/jiwon887
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
