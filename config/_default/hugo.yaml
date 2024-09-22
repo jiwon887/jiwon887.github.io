@@ -24,9 +24,23 @@ cascade:
 ## LANGUAGE
 ############################
 
+languages : 
+  en: 
+    languageCode : en-us
+    contentDir : content/en
+    title : ""
+    params : 
+      description : "Jiwon Website"
+  ko:
+    languageCode : ko
+    contentDir : content/ko
+    title : ""
+    params :
+      description : "지원 사이트"
+
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
