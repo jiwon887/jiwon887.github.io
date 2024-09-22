@@ -1,6 +1,6 @@
 ---
 title: CV
-summary: Model implementation practice
+summary: cv 모델 구현 연습
 tags:
   - CV
 date: 2022-01-01
