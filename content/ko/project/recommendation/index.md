@@ -1,6 +1,6 @@
 ---
 title: FrontEnd
-summary: React
+summary: 프론드엔드 구현
 tags:
   - FrontEnd
 date: 2022-01-01
