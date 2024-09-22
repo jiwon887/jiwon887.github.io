@@ -6,15 +6,15 @@ title: 박지원
 superuser: true
 
 # Role/position
-role: 'A student of the Department of Computer Science at Jeonbuk National University.' 
+role: '전북대학교 컴퓨터공학부 학생' 
 
 # Status emoji
-#status:
-#  icon: ☕️
+status:
+  icon: 🖥️
 
 # Organizations/Affiliations
 organizations: 
-  - name: JEONBUK UNIVERSITY
+  - name: 전북대학교
     url: "https://www.jbnu.ac.kr/kor/"
 
 # Short bio (displayed in user profile at end of posts)
