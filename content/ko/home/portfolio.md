@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Computer Vision
+    - name: 컴퓨터비전
       tag: CV
-    - name: FrontEnd
+    - name: 프론트엔드
       tag: FrontEnd
-    - name: BackEnd
+    - name: 백엔드
       tag: Backend 
 
 design:
