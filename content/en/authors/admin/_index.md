@@ -9,8 +9,8 @@ superuser: true
 role: 'A student of the Department of Computer Science at Jeonbuk National University.' 
 
 # Status emoji
-#status:
-#  icon: ☕️
+status:
+  icon: 🖥️
 
 # Organizations/Affiliations
 organizations: 
