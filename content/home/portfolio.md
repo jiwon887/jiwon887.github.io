@@ -32,7 +32,7 @@ content:
       tag: CV
     - name: FrontEnd
       tag: FrontEnd
-    -name: BackEnd
+    - name: BackEnd
       tag: Backend 
 
 design:
