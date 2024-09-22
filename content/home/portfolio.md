@@ -30,8 +30,10 @@ content:
       tag: '*'
     - name: Computer Vision
       tag: CV
-    - name: Web
-      tag: Web
+    - name: FrontEnd
+      tag: FrontEnd
+    -name: BackEnd
+      tag: Backend 
 
 design:
   columns: '1'
