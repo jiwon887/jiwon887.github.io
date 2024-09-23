@@ -51,6 +51,21 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jiwon887 
+    - icon: twitter
+    icon_pack: fab
+    name: SNS example
+    url: 'https://twitter.com/Twitter'
+  - icon: discord
+    icon_pack : fab
+    name: Discord
+    url: https://discord.gg/DQgpwGWm
+  - icon: youtube
+    icon_pack : fab
+    name: youtube
+    url: https://youtube.com/
+
+
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
