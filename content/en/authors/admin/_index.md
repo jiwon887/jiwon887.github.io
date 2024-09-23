@@ -59,6 +59,10 @@ social:
     icon_pack : fab
     name: Discord
     url: https://discord.gg/DQgpwGWm
+  - icon: youtube
+    icon_pack : fab
+    name: youtube
+    url: https://youtube.com/
 
 
 # Uncomment below for Github link
