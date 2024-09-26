@@ -5,6 +5,10 @@ name = "Starter Blog"
     logo = "logo.svg"
     logo_text = ""
 
+[header.navbar]
+  enable = true
+  show_search = true
+
 
 [light]
   # Primary
