@@ -1,9 +1,8 @@
 # Essentially Minimal theme but with constant home section bg color.
 name = "Starter Blog"
 
-[header]
-  [header.navbar]
-    logo = "media/black-home-icon.svg"
+[params]
+    logo = "media/logo.svg"
     logo_text = ""
 
 
