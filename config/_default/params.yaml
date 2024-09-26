@@ -109,3 +109,12 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+
+
+params:
+  slides:
+    theme: white
+    highlight_style: github
+  slide:
+    theme: black
+    highlight_style: dracula
