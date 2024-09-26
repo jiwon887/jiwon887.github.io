@@ -43,7 +43,7 @@ header:
     fixed_to_top: true
     logo: 
       text: ""
-      filename: "logo.svg"
+      filename: "homeicon.png"
 
 footer:
   copyright:
