@@ -2,7 +2,7 @@
 name = "Starter Blog"
 
 [params]
-    logo = "media/logo.svg"
+    logo = "logo.svg"
     logo_text = ""
 
 
