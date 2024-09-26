@@ -13,6 +13,8 @@ weight: 20
 title: ''
 subtitle: ''
 
+slides:
+
 content:
   # Page type to display. E.g. project.
   page_type: project
