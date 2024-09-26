@@ -42,7 +42,7 @@ header:
     highlight_active_link: true
     fixed_to_top: true
     logo: 
-      text: ""
+      text: "HOME LOGO"
       filename: "logo.svg"
 
 footer:
