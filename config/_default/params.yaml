@@ -44,6 +44,7 @@ header:
     logo: 
       text: ""
       filename: "homeicon.png"
+    show_search: true
 
 footer:
   copyright:
