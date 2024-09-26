@@ -1,6 +1,12 @@
 # Essentially Minimal theme but with constant home section bg color.
 name = "Starter Blog"
 
+[header]
+  [header.navbar]
+    logo = "media/black-home-icon.svg"
+    logo_text = ""
+
+
 [light]
   # Primary
   primary = "#2962ff"
