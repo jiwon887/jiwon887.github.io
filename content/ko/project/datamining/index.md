@@ -1,6 +1,6 @@
 ---
 title: DataMining
-summary: DataMining
+summary: 데이터마이닝
 tags:
   - DataMining
 date: 2022-01-01
