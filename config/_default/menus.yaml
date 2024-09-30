@@ -10,3 +10,5 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+  - name: menu1
+    url: menu1/
