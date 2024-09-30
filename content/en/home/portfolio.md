@@ -55,7 +55,9 @@ content:
     - name: FrontEnd
       tag: FrontEnd
     - name: BackEnd
-      tag: Backend 
+      tag: Backend
+    - name: DataMining
+      tag: DataMining 
 
 design:
   columns: '1'
