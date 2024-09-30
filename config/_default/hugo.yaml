@@ -38,7 +38,7 @@ languages :
     params :
       description : "지원 사이트"
 
-defaultContentLanguage: en
+defaultContentLanguage: ko
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
