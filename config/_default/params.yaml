@@ -103,6 +103,13 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+  slides:
+    theme: white
+    highlight_style: github
+  slides:
+    theme: black
+    highlight_style: dracula
+
 
 extensions:
   cms:
@@ -112,10 +119,3 @@ extensions:
     enable: false
 
 
-params:
-  slides:
-    theme: white
-    highlight_style: github
-  slide:
-    theme: black
-    highlight_style: dracula
