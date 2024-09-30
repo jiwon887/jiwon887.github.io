@@ -34,6 +34,8 @@ content:
       tag: FrontEnd
     - name: 백엔드
       tag: Backend 
+    - name: 데이터마이닝
+      tag: DataMining
 
 design:
   columns: '1'
