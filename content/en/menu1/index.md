@@ -5,7 +5,7 @@ date : 2024-9-30
 widget: slider  # Use the Slider widget as this page section
 weight: 1  # Position of this section on the page
 active: true  # Publish this section?
-headless: false  # This file represents a page section.
+headless: true  # This file represents a page section.
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
