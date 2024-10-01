@@ -16,7 +16,12 @@ main:
     url: map/
   - name: Thesis
     url: thesis/
+    identifier: tags
   - name: read
+    parent: tags
     url: thesis/read
+    weight: 10
   - name: learn
+    parent: tags
     url: thesis/learn
+    weight: 20
