@@ -10,8 +10,8 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-  - name: menu1
-    url: menu1/
+  - name: skill
+    url: skill/
   - name: map
     url: map/
   - name: Thesis
