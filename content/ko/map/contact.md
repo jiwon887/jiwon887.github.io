@@ -17,8 +17,8 @@ content:
   autolink: true
 
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '35.8411382714422'
+    longitude: '127.131588969832'
     
   # Email form provider
   form:
