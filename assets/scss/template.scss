@@ -2,7 +2,11 @@
 // https://hugoblox.com/hugo-themes/
 
 body {
-  background-color: rgb(247, 250, 252);
+  background-color: rgb(144, 238, 144);
+}
+
+.dark body {
+  background-color: rgb(38, 68, 38);  /* dark 모드 배경색 */
 }
 
 .article-container {
