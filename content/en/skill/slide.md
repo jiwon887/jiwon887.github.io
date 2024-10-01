@@ -16,32 +16,41 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: C
+      content: Since I trust you as a programmer, just go ahead and handle the programming
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: C.jpg
         fit: cover
-    - title: Lunch & Learn ☕️
+    - title: C++
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: c++.jpg
         fit: cover
-    - title: World-Class Semiconductor Lab
+    - title: Python
       content: 'Just opened last month!'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: python.jpg
+        fit: cover
+    - title: Java
+      content: 'Just opened last month!'
+      align: right
+      background:
+        position: center
+        color: '#444'
+        brightness: 0.5
+        media: java.jpg
         fit: cover
       link:
         icon: graduation-cap
