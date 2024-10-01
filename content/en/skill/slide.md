@@ -17,7 +17,7 @@ design:
 content:
   slides:
     - title: C
-      content: Since I trust you as a programmer, just go ahead and handle the programming
+      content: 'Since I trust you as a programmer, just go ahead and handle the programming'
       align: center
       background:
         position: right
@@ -26,7 +26,7 @@ content:
         media: C.jpg
         fit: cover
     - title: C++
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      content: 'std::println("Hello, world!");'
       align: left
       background:
         position: center
@@ -35,7 +35,7 @@ content:
         media: c++.jpg
         fit: cover
     - title: Python
-      content: 'Just opened last month!'
+      content: 'Life is too short, You need Python'
       align: right
       background:
         position: center
@@ -44,7 +44,7 @@ content:
         media: python.jpg
         fit: cover
     - title: Java
-      content: 'Just opened last month!'
+      content: 'I invented the term ‘Object-Oriented’, and I can tell you I did not have C++ in mind (Alan Kay)'
       align: right
       background:
         position: center
