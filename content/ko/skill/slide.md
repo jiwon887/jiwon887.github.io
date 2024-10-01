@@ -20,7 +20,7 @@ content:
       content: 프로그래머인 당신을 믿을 테니까 알아서 프로그래밍해라
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: C.jpg

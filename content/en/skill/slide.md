@@ -20,7 +20,7 @@ content:
       content: 'Since I trust you as a programmer, just go ahead and handle the programming'
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: C.jpg
