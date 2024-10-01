@@ -10,7 +10,7 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
   interval: 2000
 
@@ -24,7 +24,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: C.jpg
-        fit: cover
+        fit: contain
     - title: C++
       content: 'std::println("Hello, world!");'
       align: left
@@ -33,29 +33,24 @@ content:
         color: '#555'
         brightness: 0.7
         media: c++.jpg
-        fit: cover
+        fit: contain
     - title: Python
-      content: 'Just opened last month!'
+      content: '인생이 짧으니 파이썬을 사용해라'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
         media: python.jpg
-        fit: cover
+        fit: contain
     - title: Java
-      content: 'Just opened last month!'
+      content: '객체지향이라는 말을 내가 만들었지만, 그게 c++에 적용되진 않았다(Alan Kay)'
       align: right
       background:
         position: center
         color: '#444'
         brightness: 0.5
         media: java.jpg
-        fit: cover
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        fit: contain
 
 ---

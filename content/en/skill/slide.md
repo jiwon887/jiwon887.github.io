@@ -10,7 +10,7 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
   interval: 2000
 
@@ -24,7 +24,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: C.jpg
-        fit: cover
+        fit: contain
     - title: C++
       content: 'std::println("Hello, world!");'
       align: left
@@ -33,7 +33,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: c++.jpg
-        fit: cover
+        fit: contain
     - title: Python
       content: 'Life is too short, You need Python'
       align: right
@@ -42,7 +42,7 @@ content:
         color: '#333'
         brightness: 0.5
         media: python.jpg
-        fit: cover
+        fit: contain
     - title: Java
       content: 'I invented the term ‘Object-Oriented’, and I can tell you I did not have C++ in mind (Alan Kay)'
       align: right
@@ -51,11 +51,6 @@ content:
         color: '#444'
         brightness: 0.5
         media: java.jpg
-        fit: cover
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        fit: contain
 
 ---
