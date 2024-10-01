@@ -14,3 +14,9 @@ main:
     url: menu1/
   - name: map
     url: map/
+  - name: Thesis
+    url: thesis/
+  - name: read
+    url: thesis/read
+  - name: learn
+    url: thesis/learn
