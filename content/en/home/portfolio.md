@@ -44,10 +44,10 @@ design:
   columns: '1'
   view: masonry
   flip_alt_rows: true
-  background:
-    mode: light
-    color: '#ccffcc'  # 밝은 연두색
-    mode: dark
-    color: '#003300'  # 짙은 초록색
+#  background:
+#    mode: light
+#    color: '#ccffcc'  # 밝은 연두색
+#    mode: dark
+#    color: '#003300'  # 짙은 초록색
   spacing: {padding: [0, 0, 0, 0]}
 ---
