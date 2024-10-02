@@ -10,6 +10,9 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  background:
+   day: '#ccffcc'   # 밝은 연두색
+   night: '#003300'  # 짙은 초록색
 
 # SEO
 
