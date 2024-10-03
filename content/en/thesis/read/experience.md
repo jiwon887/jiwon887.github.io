@@ -31,16 +31,18 @@ experience:
     date_end: '2024-07-15'
     description: |2-
         This paper explains SRCNN and VDSR. By utilizing skip connections, it increases the depth of the neural network and enhances performance, while achieving faster convergence compared to previous models.
+        [View PDF](C:\Users\82102\Desktop\CV\jiwon887.github.io\content\en\thesis\read\srcnn_vdsr.pdf)
 
   - title: Vit
     company: 
     url_pdf: 'C:\Users\82102\Desktop\CV\jiwon887.github.io\content\en\thesis\read\vit.pdf'
-    company_logo: 
+    company_logo: cv
     location: 
     date_start: '2024-08-01'
     date_end: '2024-08-15'
     description: |2-
         ViT utilizes the attention structure of transformers, demonstrating high performance when processing large-scale data.
+        [View PDF](C:\Users\82102\Desktop\CV\jiwon887.github.io\content\en\thesis\read\vit.pdf)
 
 design:
   columns: '1'
