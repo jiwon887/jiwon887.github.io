@@ -19,9 +19,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    local_business_type: 'University'
+    org_name: 'Jeonbuk National University'
+    description: 'Park Ji-won, Jeonbuk National University student, specializing in [CV].'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
