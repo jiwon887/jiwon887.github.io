@@ -1,0 +1,35 @@
+# config/_default/params.yml
+
+widgets:
+  - name: custom_widget
+    widget: blank  
+    content:
+      <div class="custom-about-section">
+        <h2>Interests</h2>
+        <div class="interests">
+          <div class="row">
+            <div class="col">
+              <i class="fas fa-code-branch"></i>
+              <p>Artificial Intelligence</p>
+            </div>
+            <div class="col">
+              <i class="fas fa-calculator"></i>
+              <p>Mathematics</p>
+            </div>
+            <div class="col">
+              <i class="fas fa-server"></i>
+              <p>Backend Development</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <i class="fas fa-laptop"></i>
+              <p>Frontend Development</p>
+            </div>
+            <div class="col">
+              <i class="fab fa-app-store-ios"></i>
+              <p>App Development</p>
+            </div>
+          </div>
+        </div>
+      </div>

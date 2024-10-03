@@ -130,35 +130,37 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
-.logo img {
-  max-width: 100px; 
-  height: auto; 
-}
 
+// custom templete
 
-
-// resume interest 정렬
-
-.interests-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* 2열로 설정 */
-  grid-gap: 20px; /* 요소들 사이 간격 */
-  margin-top: 20px;
-}
-
-.interest-item {
+.custom-about-section {
   text-align: center;
-  font-size: 24px; /* 아이콘 크기 */
+  margin: 20px 0;
 }
 
-.interest-item i {
-  display: block;
+.interests {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.col {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+}
+
+.col i {
+  font-size: 2rem;
   margin-bottom: 10px;
-  font-size: 36px; /* 아이콘 크기 조정 */
-  color: #007BFF; /* 아이콘 색상 */
 }
 
-.interest-item p {
-  font-size: 18px;
-  margin: 0;
+.col p {
+  font-size: 1.2rem;
 }

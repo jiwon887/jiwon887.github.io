@@ -50,4 +50,16 @@ design:
 #    mode: dark
 #    color: '#003300'  # 짙은 초록색
   spacing: {padding: [0, 0, 0, 0]}
+
+
+
+***
+
+widget: custom_widget
+ content: |
+      <div class="custom-widget">
+        <h2>Artificial Intelligence</h2>
+        <p>This is a custom widget content with some HTML!</p>
+      </div>
 ---
+
