@@ -25,14 +25,6 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 
-<div class="interests">
-    <ul>
-        <li><i class="fas fa-check-circle"></i> Artificial Intelligence</li>
-        <li><i class="fas fa-check-circle"></i> Computational Linguistics</li>
-        <li><i class="fas fa-check-circle"></i> Information Retrieval</li>
-    </ul>
-</div>
-
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
