@@ -1,6 +1,6 @@
 ---
 widget: custom_widget
-headless: false
+headless: true
 weight: 30
 title: 'Custom Widget Example'
 
