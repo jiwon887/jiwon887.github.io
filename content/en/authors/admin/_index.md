@@ -83,12 +83,32 @@ social:
 
 할 줄 아는 거 없고 능력 없는 그냥 컴퓨터공학부 대학생입니다
 
-
 <div class="interests">
     <h3>Interests</h3>
-    <ul>
-        <li><i class="fas fa-check-circle"></i> Artificial Intelligence</li>
-        <li><i class="fas fa-check-circle"></i> Computational Linguistics</li>
-        <li><i class="fas fa-check-circle"></i> Information Retrieval</li>
-    </ul>
+    <div class="interests-grid">
+        <div class="interest-item">
+            <i class="fas fa-code-branch"></i>
+            <p>Artificial Intelligence</p>
+        </div>
+        <div class="interest-item">
+            <i class="fas fa-calculator"></i>
+            <p>Mathematics</p>
+        </div>
+        <div class="interest-item">
+            <i class="fas fa-eye"></i>
+            <p>Computer Vision</p>
+        </div>
+        <div class="interest-item">
+            <i class="fas fa-database"></i>
+            <p>Data Mining</p>
+        </div>
+        <div class="interest-item">
+            <i class="fas fa-laptop-code"></i>
+            <p>FrontEnd</p>
+        </div>
+        <div class="interest-item">
+            <i class="fas fa-server"></i>
+            <p>BackEnd</p>
+        </div>
+    </div>
 </div>
