@@ -32,6 +32,7 @@ experience:
     description: |2-
         study MLP
         A type of neural network that consists of multiple layers of neurons, where each neuron is connected to every neuron in the previous and next layers, commonly used for supervised learning tasks.
+        [View PDF](MLP.pdf)
 
   - title: LeNet
     company: 
@@ -43,6 +44,7 @@ experience:
     description: |2-
         study LeNet
         One of the earliest convolutional neural networks, designed for handwritten digit recognition, featuring convolutional layers followed by subsampling and fully connected layers.
+        [View PDF](LeNet.pdf)
   
   - title: ReNet
     company: 
@@ -54,6 +56,7 @@ experience:
     description: |2-
         study ReNet
         A deep learning architecture that incorporates skip connections or shortcuts between layers, enabling the training of very deep networks by mitigating the vanishing gradient problem
+        [View PDF](ReNet.pdf)
 
 
 design:
