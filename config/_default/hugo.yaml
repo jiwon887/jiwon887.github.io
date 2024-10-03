@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hugo Portfolio Theme # Website name
-baseURL: 'https://jiwon.portfoilo/' # Website URL
+baseURL: 'https://jiwon.portfolio/' # Website URL
 
 ############################
 ## PAGE OPTIONS

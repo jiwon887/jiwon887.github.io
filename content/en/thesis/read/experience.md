@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: Theis
 subtitle:
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+#date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,28 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Student
-    company: JBNU
-    company_url: 'https://www.jbnu.ac.kr/kor/'
+  - title: SRCNN & VDSR
+    #company: 
+    url_pdf: 'C:\Users\82102\Desktop\CV\jiwon887.github.io\content\en\thesis\read\srcnn_vdsr.pdf'
     company_logo: cv
-    location: JeonJu
-    date_start: '2020-03-04'
-    date_end: ''
+    #location: JeonJu
+    #date_start: '2020-03-04'
+    #date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        This paper explains SRCNN and VDSR. By utilizing skip connections, it increases the depth of the neural network and enhances performance, while achieving faster convergence compared to previous models. 
 
-  #- title: Professor of Semiconductor Physics
+    - title: Professor of Semiconductor Physics
   #  company: University X
-  #  company_url: ''
+      url_pdf: 'C:\Users\82102\Desktop\CV\jiwon887.github.io\content\en\thesis\read\vit.pdf'
   #  company_logo: org-x
   #  location: California
   #  date_start: '2016-01-01'
   #  date_end: '2020-12-31'
-  #  description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+          
 
 design:
   columns: '1'
