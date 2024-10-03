@@ -1,7 +1,4 @@
-{{ range .Site.Params.widgets }}
-  {{ if eq .widget "blank" }}
-    <div class="widget">
-      {{ .content | safeHTML }}
-    </div>
-  {{ end }}
-{{ end }}
+<div class="custom-widget">
+  <h2>{{ .Params.title }}</h2>
+  <div>{{ .Content | safeHTML }}</div>
+</div>
