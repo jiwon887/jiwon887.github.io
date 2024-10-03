@@ -20,22 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Study CV, Web Service
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -64,6 +48,38 @@ social:
     name: youtube
     url: https://youtube.com/
 
+- block: features
+    id: features
+    content:
+      title: <span style="font-size:75%">Interests</span>
+      text: I am currently studying the following fields of interest.<br><br><br><br>
+      items:
+        - name: Artificial Intelligence (AI)
+          icon: code-branch
+          icon_pack: fas
+          description: <span style="font-size:90%">AI technologies such as machine learning, computer vision, and natural language processing.</span><br><br>
+        - name: Web Crawling
+          icon: globe
+          icon_pack: fas
+          description:  <span style="font-size:90%">Collecting and utilizing large amounts of data through web crawling.</span><br><br>
+        - name: Mathematics
+          icon: calculator
+          icon_pack: fas
+          description:  <span style="font-size:90%">Mathematical theories related to AI, such as linear algebra.</span><br><br>
+        - name: Backend Development 
+          icon: server
+          icon_pack: fas
+          description:  <span style="font-size:90%">Server construction and database utilization.</span><br><br>
+        - name: Frontend Development 
+          icon: laptop
+          icon_pack: fas
+          description:  <span style="font-size:90%">Building websites using tools like React.</span><br><br>
+        - name: App Development
+          icon: app-store-ios
+          icon_pack: fab
+          description:  <span style="font-size:90%">App development using Android Studio!</span><br><br>
+
+
 
 # Uncomment below for Github link
 #- icon: github
@@ -83,32 +99,3 @@ social:
 
 할 줄 아는 거 없고 능력 없는 그냥 컴퓨터공학부 대학생입니다
 
-<div class="interests">
-    <h3>Interests</h3>
-    <div class="interests-grid">
-        <div class="interest-item">
-            <i class="fas fa-code-branch"></i>
-            <p>Artificial Intelligence</p>
-        </div>
-        <div class="interest-item">
-            <i class="fas fa-calculator"></i>
-            <p>Mathematics</p>
-        </div>
-        <div class="interest-item">
-            <i class="fas fa-eye"></i>
-            <p>Computer Vision</p>
-        </div>
-        <div class="interest-item">
-            <i class="fas fa-database"></i>
-            <p>Data Mining</p>
-        </div>
-        <div class="interest-item">
-            <i class="fas fa-laptop-code"></i>
-            <p>FrontEnd</p>
-        </div>
-        <div class="interest-item">
-            <i class="fas fa-server"></i>
-            <p>BackEnd</p>
-        </div>
-    </div>
-</div>
