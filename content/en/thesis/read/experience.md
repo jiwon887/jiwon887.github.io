@@ -23,24 +23,24 @@ subtitle:
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: SRCNN & VDSR
-    #company: 
+    company: 
     url_pdf: 'C:\Users\82102\Desktop\CV\jiwon887.github.io\content\en\thesis\read\srcnn_vdsr.pdf'
     company_logo: cv
-    #location: JeonJu
-    #date_start: '2020-03-04'
-    #date_end: ''
+    location:
+    date_start: ''
+    date_end: ''
     description: |2-
         This paper explains SRCNN and VDSR. By utilizing skip connections, it increases the depth of the neural network and enhances performance, while achieving faster convergence compared to previous models.
 
-  - title: Professor of Semiconductor Physics
-    #company: University X
+  - title: Vit
+    company: 
     url_pdf: 'C:\Users\82102\Desktop\CV\jiwon887.github.io\content\en\thesis\read\vit.pdf'
-    #company_logo: org-x
-    #location: California
-    #date_start: '2016-01-01'
-    #date_end: '2020-12-31'
+    company_logo: 
+    location: 
+    date_start: ''
+    date_end: ''
     description: |2-
-        This section discusses the professor's work on semiconductor physics, focusing on various theoretical and practical applications of semiconductors in modern technology.
+        ViT utilizes the attention structure of transformers, demonstrating high performance when processing large-scale data.
 
 design:
   columns: '1'
