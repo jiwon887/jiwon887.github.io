@@ -43,6 +43,7 @@ experience:
     description: |2-
         ViT utilizes the attention structure of transformers, demonstrating high performance when processing large-scale data.
         [View PDF](vit.pdf)
+    
 
 design:
   columns: '1'
