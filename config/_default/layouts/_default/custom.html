@@ -1,0 +1,7 @@
+{{ range .Site.Params.widgets }}
+  {{ if eq .widget "blank" }}
+    <div class="widget">
+      {{ .content | safeHTML }}
+    </div>
+  {{ end }}
+{{ end }}

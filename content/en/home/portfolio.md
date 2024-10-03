@@ -51,10 +51,6 @@ design:
 #    color: '#003300'  # 짙은 초록색
   spacing: {padding: [0, 0, 0, 0]}
 
-
-
-***
-
 widget: custom_widget
  content: |
       <div class="custom-widget">
