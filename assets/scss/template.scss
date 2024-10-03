@@ -31,6 +31,11 @@ body {
 .card-simple {
   margin-top: 1.8rem;
   border-radius: 15px;
+  transition: transform 0.3s; /* Transition effect for scaling */
+}
+
+.card-simple:hover {
+  transform: scale(1.05); /* Scale up on hover */
 }
 
 .dark .card-simple {
@@ -101,6 +106,11 @@ ul.network-icon .big-icon {
   height: auto;
   max-width: 225px;
   max-height: 225px;
+  transition: transform 0.3s; /* Transition effect for scaling */
+}
+
+.avatar:hover {
+  transform: scale(1.05); /* Scale up on hover */
 }
 
 // Prevent stretching on About page with narrow container
