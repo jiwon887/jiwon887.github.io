@@ -78,6 +78,30 @@ content:
       description: '<span style="font-size:90%">App development using Android Studio!</span>'
 ---
 
+<div style="text-align: center;">
+  <p>I am a student in the Department of Computer Engineering at Jeonbuk National University.</p>
 
-할 줄 아는 거 없고 능력 없는 그냥 컴퓨터공학부 대학생입니다
+  <h3>Project Experience</h3>
+  <ul>
+    <li>Web Development</li>
+    <li>Game Development (Unity)</li>
+    <li>Web Crawling</li>
+    <li>Development of Educational Tools (ML)</li>
+  </ul>
 
+  <h3>Studies</h3>
+  <ul>
+    <li>Python</li>
+    <li>Web Development</li>
+    <li>Web Crawling</li>
+    <li>Specialized Training in Artificial Intelligence</li>
+  </ul>
+
+  <h3>Languages Proficient In</h3>
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>Python</li>
+    <li>Java</li>
+  </ul>
+</div>

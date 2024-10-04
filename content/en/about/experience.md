@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: Student
-    company: JBNU
+    company: Jeonbuk National University
     company_url: 'https://www.jbnu.ac.kr/kor/'
     company_logo: cv
-    location: JeonJu
+    location: Jeonju
     date_start: '2020-03-04'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: |2- 
+      * Currently enrolled in the Department of Computer Engineering at Jeonbuk National University.
+      * Planning a career in the field of computer vision.
 
-  #- title: Professor of Semiconductor Physics
-  #  company: University X
-  #  company_url: ''
-  #  company_logo: org-x
-  #  location: California
-  #  date_start: '2016-01-01'
-  #  date_end: '2020-12-31'
-  #  description: Taught electronic engineering and researched semiconductor physics.
+  - title: Club Member
+    company: CPU
+    company_url: 'https://github.com/JBNU-CPU'
+    company_logo: cpu
+    location: Jeonju
+    date_start: '2023-03-01'
+    date_end: ''
+    description: |2-
+      * Member of the CPU, the central club for academic studies at Jeonbuk National University.
+      * Participating in sessions, studies, and projects within the club to enhance my knowledge.
+
+  - title: Intern
+    company: Ssangyong C&B
+    company_url: 'https://www.ssangyongcne.co.kr/main.do'
+    company_logo: SS
+    location: Donghae
+    date_start: '2020-01-01'
+    date_end: '2020-08-31'
+    description: |2-
+      * Worked as an intern at Ssangyong C&B in Donghae for 8 months.
 
 design:
   columns: '1'

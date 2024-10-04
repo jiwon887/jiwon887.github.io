@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+title: Project
 subtitle:
 
 # Date format for experience
@@ -22,26 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: Web Crawling
+    company: JBNU
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    company_logo: 
+    location: 
+    date_start: '2023-09-01'
+    date_end: '2023-10-01'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        Naver Vive chart Crawling
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: Game
+    company: JBNU
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    company_logo: 
+    location: 
+    date_start: '2023-06-01'
+    date_end: '2023-07-01'
+    description: |2-
+        Develop Game using Unity
+
+  - title: Summary ppt
+    company: JBNU
+    company_url: ''
+    company_logo:
+    location:
+    date_start: '2024-09-03'
+    date_end: ''
+    description: |-2
+        Develop ppt summary program using
 
 design:
   columns: '1'
