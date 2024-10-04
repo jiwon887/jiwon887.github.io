@@ -2,6 +2,11 @@
 # Display name
 title: 박지원
 
+keywords:
+- Jeonbuk
+- jiwon
+- 박지원
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -65,6 +70,7 @@ social:
     icon_pack : fab
     name: youtube
     url: https://youtube.com/
+
 
 
 
