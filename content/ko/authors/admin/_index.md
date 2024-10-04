@@ -20,22 +20,24 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Study CV, Web Service
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computer Vision
+- Development and Design of Video Solution Hardware and Software
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: Cheongun Elementary School
+    institution: Cheongun Elementary School
+    year: 2008
+  - course: BukPyeong Middle School
+    institution: BukPyeong Middle School
+    year: 2014
+  - course: BukPyeong High School
+    institution: BukPyeong High School
+    year: 2017
+  - course: JeonBuck University
+    institution: JeonBuck University
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -81,5 +83,22 @@ social:
 #email: ""
 ---
 
+전북대학교 컴퓨터공학부 재학생입니다.
 
-할 줄 아는 거 없고 능력 없는 그냥 컴퓨터공학부 대학생입니다
+프로젝트 경험
+-웹 개발
+-게임 개발(유니티)
+-웹 크롤링
+-교육 도구 개발(ML)
+
+스터디
+- 파이썬
+- 웹 개발
+- 웹 크롤링
+- 인공지능 특화교육
+
+사용 가능 언어
+- C
+- C++
+- Python
+- Java
