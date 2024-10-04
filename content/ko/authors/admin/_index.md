@@ -82,23 +82,30 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+<div style="text-align: center;">
+  <p>전북대학교 컴퓨터공학부 재학생입니다.</p>
 
-전북대학교 컴퓨터공학부 재학생입니다.
+  <h3>프로젝트 경험</h3>
+  <ul>
+    <li>웹 개발</li>
+    <li>게임 개발(유니티)</li>
+    <li>웹 크롤링</li>
+    <li>교육 도구 개발(ML)</li>
+  </ul>
 
-프로젝트 경험
--웹 개발
--게임 개발(유니티)
--웹 크롤링
--교육 도구 개발(ML)
+  <h3>스터디</h3>
+  <ul>
+    <li>파이썬</li>
+    <li>웹 개발</li>
+    <li>웹 크롤링</li>
+    <li>인공지능 특화교육</li>
+  </ul>
 
-스터디
-- 파이썬
-- 웹 개발
-- 웹 크롤링
-- 인공지능 특화교육
-
-사용 가능 언어
-- C
-- C++
-- Python
-- Java
+  <h3>사용 가능 언어</h3>
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>Python</li>
+    <li>Java</li>
+  </ul>
+</div>
