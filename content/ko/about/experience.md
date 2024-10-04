@@ -38,7 +38,7 @@ experience:
   - title: 동아리
     company: CPU
     company_url: 'https://github.com/JBNU-CPU'
-    company_logo: CPU
+    company_logo: cpu
     location: 전주
     date_start: '2023-03-01'
     date_end: ''
